@@ -1,5 +1,5 @@
 import pygame
-from winsound import PlaySound
+
 from pygame import mixer
 from random import randint
 from dino_runner.utils.constants import BG, ICON, SCREEN_HEIGHT, SCREEN_WIDTH, TITLE, FPS, DEFAULT_TYPE, CLOUD, RESET, MUSIC,START, BG2, BG_MENU_DEATH, START_MUSIC, FUNDO_START
